@@ -1,0 +1,43 @@
+Title: CTJM Joliette Bus (MonTransit)
+----------
+Short description: CTJM Joliette bus information for MonTransit BETA.
+----------
+What's new in this version?:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+Schedule from December 1, 2014 to September 6, 2020.
+----------
+Full description:
+BETA: Thanks for your patience while the last features are being added and the last bugs are being fixed.
+
+This application adds CTJM Joliette bus information to MonTransit BETA.
+
+CTJM Joliette serves Notre-Dame-des-Prairies, Joliette and St-Charles-Borromée.
+
+Once this application is installed, the MonTransit BETA app will display bus information (schedule...).
+
+This application only has a temporary icon and no screen: download the MonTransit BETA app (free) in the "More ..." section bellow or by following this Google Play link http://goo.gl/pCk5mV
+
+You can install this application on the SD card but it is not recommended.
+
+The information comes from the GTFS file provided by the Agence Métropolitaine de Transport.
+https://www.amt.qc.ca/en/about/open-data
+
+This application is free and open-source:
+https://github.com/mtransitapps/ca-joliette-ctjm-bus-android
+
+This app is not related with the Agence Métropolitaine de Transport and CTJM Joliette.
+----------
+Application type: Applications
+----------
+Category: Transportation
+----------
+Content rating: Low Maturity
+----------
+Website: https://github.com/mtransitapps/ca-joliette-ctjm-bus-android
+----------
+Email: mtransit.apps+GooglePlay@gmail.com
+----------
+Phone: 
+----------
+Privacy Policy:
