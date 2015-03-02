@@ -3,14 +3,14 @@ Title: Bus CTJM Joliette (MonTransit)
 Short description: Informations des bus CTJM Joliette pour MonTransit BETA.
 ----------
 What's new in this version?:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Horaires du 1 Décembre 2014 au 6 Septembre 2020.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 ----------
 Full description:
-BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
-
 Cette application ajoute les informations des bus CTJM Joliette à MonTransit BETA.
+
+BETA : Merci de votre patience pendant que les dernières fonctionnalités sont ajoutées et les derniers problèmes sont corrigés.
 
 Le CTJM Joliette dessert Notre-Dame-des-Prairies, Joliette et Saint-Charles-Borromée.
 
