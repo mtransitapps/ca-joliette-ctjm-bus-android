@@ -1,4 +1,4 @@
-# CTJM Joliette Bus for [MonTransit BETA](https://github.com/mtransitapps/mtransit-for-android)
+# Joliette CTJM Bus for [MonTransit BETA](https://github.com/mtransitapps/mtransit-for-android)
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-joliette-ctjm-bus-android/master/pub/hi-res-app-icon.png"/>
 
@@ -10,6 +10,7 @@
 
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-joliette-ctjm-bus-android/master/pub/screenshot-phone-1.png"/>
 <img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-joliette-ctjm-bus-android/master/pub/screenshot-phone-2.png"/>
+<img width="25%" height="25%" src="https://raw.githubusercontent.com/mtransitapps/ca-joliette-ctjm-bus-android/master/pub/screenshot-phone-3.png"/>
 
 ## Social
 
