@@ -5,7 +5,7 @@ Joliette CTJM buses for MonTransit
 Schedule…
 ----------
 What's new in this version?:
-Schedule from April 2, 2017 to September 6, 2020.
+Schedule from January 1, 2018 to September 6, 2020.
 ----------
 Full description:
 This application adds Joliette CTJM buses information to MonTransit.
